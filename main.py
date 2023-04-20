@@ -38,7 +38,7 @@ def search_all_verbs():
     writer = pd.ExcelWriter('Tiempos En Español.xlsx', engine='xlsxwriter')
     data_frame.to_excel(writer, sheet_name='Tiempos En Español', index=False)
 
-    writer.save()
+    writer._save()
 
 
 def find_all_tenses_for_one_verb(verb):
