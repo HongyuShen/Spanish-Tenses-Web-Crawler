@@ -12,7 +12,7 @@ Included Spanish tenses:
 * Pretérito anterior
 * Futuro perfecto
 
-So far the list contains 797 verbs: https://rb.gy/oodbak
+So far the list contains 807 verbs: https://rb.gy/oodbak
 
 ## Configuration
 Preferred IDE: PyCharm
