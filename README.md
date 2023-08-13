@@ -12,7 +12,7 @@ Included Spanish tenses:
 * Pretérito anterior
 * Futuro perfecto
 
-So far the list contains 874 verbs: https://rb.gy/oodbak
+So far the list contains 926 verbs: https://rb.gy/oodbak
 
 ## Configuration
 Preferred IDE: PyCharm
@@ -23,4 +23,4 @@ How to run the program:
 3. Result will be output in Microsoft Excel format as "Tiempos En Español"
 
 ## Utility
-The result can be used in Text-to-Speech applications like: https://ttsreader.com/ 
+The result can be used in Text-to-Speech applications like: https://ttsreader.com/
